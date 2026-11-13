@@ -1,0 +1,376 @@
+media:
+  input: assets
+  output: /assets
+  categories:
+  - image
+content:
+- name: index
+  label: Accueil
+  type: file
+  path: content/index.json
+  fields:
+  - name: photo_1
+    label: Photo 1
+    type: image
+  - name: rubrique_1
+    label: Rubrique 1 — Expériences équestres · Accompagnement · Nature
+    type: text
+  - name: titre_principal_1
+    label: Titre principal 1 — La liberté commence là où l'on se retrouve.
+    type: text
+  - name: texte_1
+    label: Texte 1 — Des montagnes argentines à la rencontre de soi, Équi-Zénith Ranch…
+    type: text
+  - name: rubrique_2
+    label: Rubrique 2 — L'aventure à la une
+    type: text
+  - name: titre_1
+    label: Titre 1 — À cheval, au cœur de l'Argentine sauvage.
+    type: text
+  - name: texte_2
+    label: Texte 2 — Dix jours pour découvrir la culture gaucho, les immensités de Sal…
+    type: text
+  - name: texte_3
+    label: Texte 3 — Du 10 au 19 mai 2027, partez pour huit jours d'équitation en mont…
+    type: text
+  - name: photo_2
+    label: Photo 2
+    type: image
+  - name: rubrique_3
+    label: Rubrique 3 — Notre univers
+    type: text
+  - name: titre_2
+    label: Titre 2 — Un lieu pour explorer, ressentir, grandir.
+    type: text
+  - name: sous_titre_1
+    label: Sous titre 1 — Liberté
+    type: text
+  - name: texte_4
+    label: Texte 4 — Sortir du quotidien, retrouver de l'espace et se reconnecter à ce…
+    type: text
+  - name: sous_titre_2
+    label: Sous titre 2 — Confiance
+    type: text
+  - name: texte_5
+    label: Texte 5 — Approcher ses ressources avec curiosité, à son rythme et sans jug…
+    type: text
+  - name: sous_titre_3
+    label: Sous titre 3 — Nature
+    type: text
+  - name: texte_6
+    label: Texte 6 — Laisser la rencontre avec les chevaux et le vivant ouvrir d'autre…
+    type: text
+  - name: photo_3
+    label: Photo 3
+    type: image
+  - name: rubrique_4
+    label: Rubrique 4 — Accompagnement
+    type: text
+  - name: titre_3
+    label: Titre 3 — Grandir à sa manière.
+    type: text
+  - name: texte_7
+    label: Texte 7 — Préparation mentale, hypnose, Reiki, cartomancie, équi-coaching, …
+    type: text
+  - name: texte_8
+    label: 'Texte 8 — Plusieurs portes d''entrée, une même invitation : prendre le temps…'
+    type: text
+  - name: rubrique_5
+    label: Rubrique 5 — Notre inspiration
+    type: text
+  - name: citation_1
+    label: Citation 1 — L'air de la liberté est celui qui souffle entre les oreilles d'un…
+    type: text
+  - name: texte_9
+    label: Texte 9 — Équi-Zénith Ranch · La nature pour horizon
+    type: text
+  - name: rubrique_6
+    label: Rubrique 6 — Entrons en contact
+    type: text
+  - name: titre_4
+    label: Titre 4 — Et si la prochaine rencontre ouvrait de nouveaux horizons ?
+    type: text
+  - name: texte_10
+    label: Texte 10 — Une question sur le voyage, une demande d'accompagnement ou simpl…
+    type: text
+- name: argentine
+  label: Randonnée Argentine 2027
+  type: file
+  path: content/argentine.json
+  fields:
+  - name: photo_1
+    label: Photo 1
+    type: image
+  - name: rubrique_1
+    label: Rubrique 1 — Voyage équestre · Argentine · 10—19 mai 2027
+    type: text
+  - name: titre_principal_1
+    label: Titre principal 1 — Chevaucher la vie sauvage.
+    type: text
+  - name: texte_1
+    label: Texte 1 — Dix jours d'évasion, huit jours à cheval au cœur des montagnes de…
+    type: text
+  - name: rubrique_2
+    label: Rubrique 2 — L'essentiel du séjour
+    type: text
+  - name: rubrique_3
+    label: Rubrique 3 — Bien plus qu'une randonnée
+    type: text
+  - name: titre_1
+    label: Titre 1 — L'Argentine comme une rencontre.
+    type: text
+  - name: texte_2
+    label: 'Texte 2 — Après plusieurs mois passés dans ce pays, l''envie est simple : pa…'
+    type: text
+  - name: texte_3
+    label: Texte 3 — Les deux premières nuits sont consacrées à l'accueil au ranch, à …
+    type: text
+  - name: texte_4
+    label: Texte 4 — Trois régions, trois climats et une grande diversité de paysages …
+    type: text
+  - name: photo_2
+    label: Photo 2
+    type: image
+  - name: rubrique_4
+    label: Rubrique 4 — Au programme
+    type: text
+  - name: titre_2
+    label: Titre 2 — Une immersion vraie.
+    type: text
+  - name: sous_titre_1
+    label: Sous titre 1 — Les gauchos
+    type: text
+  - name: texte_5
+    label: Texte 5 — Découvrir la vie, les traditions et l'hospitalité des habitants d…
+    type: text
+  - name: sous_titre_2
+    label: Sous titre 2 — Les chevaux
+    type: text
+  - name: texte_6
+    label: Texte 6 — Des chevaux habitués à leur travail, suivis et respectés. La sécu…
+    type: text
+  - name: sous_titre_3
+    label: Sous titre 3 — Les grands espaces
+    type: text
+  - name: texte_7
+    label: Texte 7 — Des journées à cheval, des paysages changeants, des repas partagé…
+    type: text
+  - name: photo_3
+    label: Photo 3
+    type: image
+  - name: photo_4
+    label: Photo 4
+    type: image
+  - name: photo_5
+    label: Photo 5
+    type: image
+  - name: rubrique_5
+    label: Rubrique 5 — Questions pratiques
+    type: text
+  - name: titre_3
+    label: Titre 3 — Votre aventure, en toute clarté.
+    type: text
+  - name: texte_8
+    label: Texte 8 — La randonnée s'adresse aux cavaliers à l'aise aux trois allures :…
+    type: text
+  - name: texte_9
+    label: Texte 9 — Les participants organisent leur arrivée de manière autonome. L'a…
+    type: text
+  - name: texte_10
+    label: 'Texte 10 — Le séjour compte dix jours et neuf nuits : les deux premières nui…'
+    type: text
+  - name: texte_11
+    label: Texte 11 — Le tarif annoncé est de 2 500 USD, avec un acompte de 500 USD pou…
+    type: text
+  - name: rubrique_6
+    label: Rubrique 6 — Argentine 2027
+    type: text
+  - name: sous_titre_4
+    label: Sous titre 4 — Les informations clés
+    type: text
+  - name: texte_12
+    label: Texte 12 — Vols organisés individuellement. Détails du programme, inclusions…
+    type: text
+  - name: photo_6
+    label: Photo 6
+    type: image
+  - name: rubrique_7
+    label: Rubrique 7 — Reconnaissance du ranch partenaire
+    type: text
+  - name: sous_titre_5
+    label: Sous titre 5 — Une expérience appréciée des voyageurs.
+    type: text
+  - name: texte_13
+    label: Texte 13 — Le ranch partenaire présente une distinction Tripadvisor Traveler…
+    type: text
+  - name: rubrique_8
+    label: Rubrique 8 — Huit places seulement
+    type: text
+  - name: titre_4
+    label: Titre 4 — Et si vous veniez chevaucher l'Argentine avec nous ?
+    type: text
+  - name: texte_14
+    label: Texte 14 — Écrivez-nous pour recevoir la brochure, poser vos questions et co…
+    type: text
+- name: accompagnement
+  label: Accompagnements
+  type: file
+  path: content/accompagnement.json
+  fields:
+  - name: rubrique_1
+    label: Rubrique 1 — Accompagnement
+    type: text
+  - name: titre_principal_1
+    label: 'Titre principal 1 — Des chemins différents, une même invitation : se rencontrer.'
+    type: text
+  - name: texte_1
+    label: Texte 1 — À travers les chevaux, le corps, la réflexion et les approches de…
+    type: text
+  - name: rubrique_2
+    label: Rubrique 2 — 01 / Accompagnement
+    type: text
+  - name: sous_titre_1
+    label: Sous titre 1 — Préparation mentale pour la compétition
+    type: text
+  - name: texte_2
+    label: Texte 2 — Un accompagnement destiné aux cavaliers et sportifs qui souhaiten…
+    type: text
+  - name: rubrique_3
+    label: Rubrique 3 — 02 / Accompagnement
+    type: text
+  - name: sous_titre_2
+    label: Sous titre 2 — Hypnose
+    type: text
+  - name: texte_3
+    label: Texte 3 — Un espace d’exploration personnelle, dans une approche respectueu…
+    type: text
+  - name: rubrique_4
+    label: Rubrique 4 — 03 / Accompagnement
+    type: text
+  - name: sous_titre_3
+    label: Sous titre 3 — Reiki
+    type: text
+  - name: texte_4
+    label: Texte 4 — Une pratique de bien-être invitant à une pause et à un moment de …
+    type: text
+  - name: rubrique_5
+    label: Rubrique 5 — 04 / Accompagnement
+    type: text
+  - name: sous_titre_4
+    label: Sous titre 4 — Cartomancie · Tarots & oracles
+    type: text
+  - name: texte_5
+    label: Texte 5 — Un temps de réflexion et d’introspection à travers les symboles e…
+    type: text
+  - name: rubrique_6
+    label: Rubrique 6 — 05 / Accompagnement
+    type: text
+  - name: sous_titre_5
+    label: Sous titre 5 — Équi-coaching
+    type: text
+  - name: texte_6
+    label: Texte 6 — Une rencontre avec le cheval pour observer, ressentir et explorer…
+    type: text
+  - name: rubrique_7
+    label: Rubrique 7 — 06 / Accompagnement
+    type: text
+  - name: sous_titre_6
+    label: Sous titre 6 — Constellations familiales et systémiques avec les chevaux
+    type: text
+  - name: texte_7
+    label: Texte 7 — Une démarche d’exploration des dynamiques relationnelles et famil…
+    type: text
+  - name: rubrique_8
+    label: Rubrique 8 — 07 / Accompagnement
+    type: text
+  - name: sous_titre_7
+    label: Sous titre 7 — Yoga avec les chevaux
+    type: text
+  - name: texte_8
+    label: Texte 8 — Une invitation à la présence, au mouvement et au contact avec l’e…
+    type: text
+  - name: texte_9
+    label: Texte 9 — Les présentations des pratiques seront précisées et complétées pr…
+    type: text
+  - name: rubrique_9
+    label: Rubrique 9 — Échangeons
+    type: text
+  - name: titre_1
+    label: Titre 1 — Une approche vous interpelle ?
+    type: text
+  - name: texte_10
+    label: Texte 10 — Contactez-nous pour poser vos questions et connaître les modalité…
+    type: text
+- name: a_propos
+  label: À propos
+  type: file
+  path: content/a-propos.json
+  fields:
+  - name: rubrique_1
+    label: Rubrique 1 — À propos de nous
+    type: text
+  - name: titre_principal_1
+    label: Titre principal 1 — Les rencontres qui nous font grandir.
+    type: text
+  - name: texte_1
+    label: Texte 1 — Équi-Zénith Ranch est né d'une passion pour les chevaux, la natur…
+    type: text
+  - name: rubrique_2
+    label: Rubrique 2 — La fondatrice
+    type: text
+  - name: titre_1
+    label: Titre 1 — Une passion des chevaux et de l'humain.
+    type: text
+  - name: texte_2
+    label: Texte 2 — À l'origine d'Équi-Zénith Ranch, une cavalière passionnée par les…
+    type: text
+  - name: texte_3
+    label: Texte 3 — Son univers relie l'expérience équestre, l'accompagnement personn…
+    type: text
+  - name: photo_1
+    label: Photo 1
+    type: image
+  - name: photo_2
+    label: Photo 2
+    type: image
+  - name: rubrique_3
+    label: Rubrique 3 — Nos partenaires à quatre sabots
+    type: text
+  - name: titre_2
+    label: Titre 2 — Les chevaux, au cœur de l'aventure.
+    type: text
+  - name: texte_4
+    label: 'Texte 4 — Ils ne sont pas un décor : ils occupent une place centrale dans l…'
+    type: text
+  - name: texte_5
+    label: Texte 5 — Cette page accueillera leur présentation individuelle, leurs pers…
+    type: text
+  - name: texte_6
+    label: Texte 6 — Section en cours de préparation, à compléter avec les portraits d…
+    type: text
+- name: contact
+  label: Contact
+  type: file
+  path: content/contact.json
+  fields:
+  - name: rubrique_1
+    label: Rubrique 1 — Contact & réservations
+    type: text
+  - name: titre_principal_1
+    label: Titre principal 1 — Écrivons la suite ensemble.
+    type: text
+  - name: texte_1
+    label: Texte 1 — Un voyage en Argentine, une séance d'accompagnement ou simplement…
+    type: text
+  - name: rubrique_2
+    label: Rubrique 2 — Entrons en contact
+    type: text
+  - name: titre_1
+    label: Titre 1 — Chaque rencontre commence par quelques mots.
+    type: text
+  - name: texte_2
+    label: Texte 2 — Vous souhaitez participer au voyage de mai 2027 ? Indiquez-le dan…
+    type: text
+  - name: texte_3
+    label: 'Texte 3 — Formulaire de démonstration : aucun message ne sera envoyé avant …'
+    type: text
