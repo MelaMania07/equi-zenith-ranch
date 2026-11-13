@@ -1,0 +1,25 @@
+ÉQUI-ZÉNITH RANCH — VERSION MODIFIABLE
+
+Cette version conserve le design de la première maquette.
+
+POUR ACTIVER L’ÉDITEUR GRATUIT :
+1. Créer un compte sur github.com.
+2. Créer un dépôt (repository) nommé equi-zenith-site, de préférence PRIVATE.
+3. Importer les fichiers de ce ZIP à la racine du dépôt, y compris .pages.yml et le dossier content.
+   Attention : certains décompresseurs cachent les fichiers qui commencent par un point.
+4. Ouvrir https://app.pagescms.org et s'identifier avec GitHub.
+5. Autoriser Pages CMS à accéder au dépôt si demandé.
+6. Les cinq pages apparaissent dans l'éditeur. Modifier une valeur, enregistrer : Pages CMS modifie les fichiers JSON dans GitHub.
+7. Dans Cloudflare, créer un NOUVEAU projet Pages lié au dépôt GitHub ("Connect to Git").
+   Framework : None. Build command : laisser vide. Output directory : / (ou . selon interface).
+8. Chaque enregistrement dans Pages CMS entraîne un déploiement Cloudflare une fois l'intégration activée.
+9. Le domaine acheté chez Squarespace sera relié au projet Cloudflare après vérification.
+
+IMPORTANT :
+- Si vous avez déjà créé un projet Cloudflare en téléversement direct, il ne peut pas être converti en intégration Git : il faut créer un nouveau projet.
+- Les textes de contenu et les images du corps des pages sont éditables. La mise en page et la navigation restent fixes, afin de préserver le design.
+- Les champs photo acceptent les images chargées depuis l'éditeur et stockées dans /assets.
+- Les modifications ne s'affichent dans le navigateur qu'une fois hébergées (pas dans l'aperçu local file://).
+- Le formulaire de contact n'envoie pas encore de messages. Ne pas annoncer qu'il fonctionne avant configuration.
+- Mentions légales, confidentialité, coordonnées professionnelles et conditions du voyage à compléter avant la publication officielle.
+- Les titres et métadonnées de référencement dans le HTML ne sont pas automatiquement mis à jour par l'éditeur.

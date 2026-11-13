@@ -1,0 +1,16 @@
+ÉQUI-ZÉNITH RANCH — PREMIÈRE VERSION DU SITE
+
+1. Décompressez le ZIP sur votre ordinateur si vous souhaitez tester le site.
+2. Ouvrez index.html dans votre navigateur pour voir la page d’accueil.
+3. Pour Cloudflare Pages : depuis « téléverser », déposez le fichier ZIP ou le dossier du site selon l’option proposée par Cloudflare. Le fichier index.html doit se trouver à la racine du déploiement.
+4. Cloudflare fournit une adresse temporaire *.pages.dev pour visualiser le site.
+5. Plus tard, connectez equizenith.com dans les paramètres de domaine personnalisé. Ne changez pas les DNS de Squarespace avant cette étape.
+
+IMPORTANT AVANT MISE EN LIGNE OFFICIELLE :
+- Le formulaire de contact est une MAQUETTE : il n’envoie aucun message tant que nous n’avons pas configuré un service (p. ex. Formspree) et votre adresse e-mail.
+- Compléter le texte À propos, les portraits des chevaux et les modalités définitives du voyage.
+- Confirmer les modalités de paiement, les inclusions, l’assurance, les conditions d’annulation et la preuve du badge Tripadvisor lié au ranch partenaire.
+- Ajouter les mentions légales et la politique de confidentialité adaptées à l’activité.
+- Le site utilise des polices Google Fonts (nécessitent Internet). Selon vos obligations RGPD, envisager l’hébergement local des polices ou des polices système avant publication.
+
+Pour modifier le contenu, nous pourrons mettre à jour les fichiers HTML, puis déposer une nouvelle version sur Cloudflare Pages.
