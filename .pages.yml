@@ -4,6 +4,34 @@ media:
   categories:
   - image
 content:
+
+- name: identite
+  label: Identité visuelle — logo et nom
+  type: file
+  path: content/identite.json
+  fields:
+    - name: logo
+      label: Logo du site
+      type: image
+    - name: nom
+      label: Nom du ranch
+      type: string
+    - name: sous_nom
+      label: Deuxième ligne du nom
+      type: string
+    - name: largeur_logo
+      label: Taille du logo en pixels
+      type: number
+    - name: grandeur_nom
+      label: Taille du nom en pixels
+      type: number
+    - name: grandeur_sous_nom
+      label: Taille de RANCH en pixels
+      type: number
+    - name: espacement_logo_texte
+      label: Espace entre logo et texte
+      type: number
+
 - name: index
   label: Accueil
   type: file
