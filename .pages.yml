@@ -10,16 +10,21 @@ content:
   path: content/galerie.json
   fields:
     - name: ranch
-      label: Photos du Ranch
+      label: Le ranch
       type: image
       list: true
     - name: argentine
-      label: Photos d'Argentine
+      label: L'Argentine
       type: image
       list: true
-
-
-- name: identite
+    - name: bien_etre
+      label: Les activités bien-être
+      type: image
+      list: true
+    - name: maison_hotes
+      label: La maison d'hôtes
+      type: image
+      list: true
   label: Identité visuelle — logo et nom
   type: file
   path: content/identite.json
