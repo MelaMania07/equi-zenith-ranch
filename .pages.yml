@@ -4,6 +4,20 @@ media:
   categories:
   - image
 content:
+- name: galerie
+  label: Galerie photos
+  type: file
+  path: content/galerie.json
+  fields:
+    - name: ranch
+      label: Photos du Ranch
+      type: image
+      list: true
+    - name: argentine
+      label: Photos d'Argentine
+      type: image
+      list: true
+
 
 - name: identite
   label: Identité visuelle — logo et nom
