@@ -25,6 +25,7 @@ content:
       label: La maison d'hôtes
       type: image
       list: true
+- name: identite
   label: Identité visuelle — logo et nom
   type: file
   path: content/identite.json
