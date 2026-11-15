@@ -353,6 +353,9 @@ content:
   type: file
   path: content/a-propos.json
   fields:
+  - name: photo_3
+    label: Photo d'introduction — Rejoindre la nature
+    type: image
   - name: rubrique_1
     label: Rubrique 1 — À propos de nous
     type: text
