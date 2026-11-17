@@ -1,8 +1,23 @@
 {
-  "ranch": [],
+  "ranch": [
+    "/assets/ranch1-1.jpg",
+    "/assets/ranch3.jpg",
+    "/assets/ranch2-1.jpg",
+    "/assets/paint-1.jpg",
+    "/assets/333.jpg",
+    "/assets/444.jpg",
+    "/assets/billy 1-1.jpg",
+    "/assets/billy 3-1.jpg",
+    "/assets/billy 2-1.jpg",
+    "/assets/mistral 1-1.jpg",
+    "/assets/billy5-1.jpg",
+    "/assets/ranch4.jpg"
+  ],
   "argentine": [
-    "/assets/cavaliers.jpg",
-    "/assets/lagune.jpg",
-    "/assets/chevaux.jpg"
+    "/assets/argentine1-1.jpg",
+    "/assets/argentine2.jpg",
+    "/assets/argentine3.jpg",
+    "/assets/argentine4.jpg",
+    "/assets/argentinee.jpg"
   ]
 }
