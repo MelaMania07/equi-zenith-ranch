@@ -17,5 +17,5 @@ document.querySelectorAll('.nav a[href*="accompagnement"]').forEach(lien => {
   lien.textContent = 'Accompagnements';
 });
 document.querySelectorAll('.footer h3').forEach(titre => {
-  titre.textContent = 'Rejoignez la nature. Soyez libres.';
+titre.innerHTML = 'Rejoignez la nature.<br>Soyez libres.';
 });
