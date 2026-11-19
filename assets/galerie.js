@@ -12,7 +12,7 @@
     const lien = event.target.closest('.album a');
     if (!lien) return;
 
-    photos = [...lien.closest('.album').querySelectorAll('a[href]')];
+    photos = [...document.querySelectorAll('.album a[href]')];
     position = photos.indexOf(lien);
   });
 
