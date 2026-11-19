@@ -11,3 +11,8 @@
 .header-inner{min-height:max(92px,calc(var(--logo-size) + 18px));flex-wrap:wrap}
 @media(max-width:860px){.header-inner{min-height:max(76px,calc(var(--logo-size) + 12px))}.nav{top:100%}}
 @media(max-width:560px){.header .brand>img{width:min(var(--logo-size),105px);height:min(var(--logo-size),105px)}.header .brand>span>span{font-size:min(var(--nom-size),21px)}.header .brand small{font-size:min(var(--sous-nom-size),15px)}.header .brand{gap:min(var(--brand-gap),12px)}.header-inner{gap:8px}}
+/* Justifier les descriptions des accompagnements */
+.service p {
+  text-align: justify;
+  hyphens: auto;
+}
