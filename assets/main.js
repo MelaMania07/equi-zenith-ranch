@@ -13,3 +13,6 @@ if (nav && !nav.querySelector('a[href*="galerie"]')) {
     nav.appendChild(lienGalerie);
   }
 }
+document.querySelectorAll('.nav a[href*="accompagnement"]').forEach(lien => {
+  lien.textContent = 'Accompagnements';
+});
